@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notesai-dev-123940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::132260253285:role/amplify-notesai-dev-123940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::132260253285:role/amplify-notesai-dev-123940-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-notesai-dev-123940-deployment",
+      "UnauthRoleName": "amplify-notesai-dev-123940-unauthRole",
+      "StackName": "amplify-notesai-dev-123940",
+      "StackId": "arn:aws:cloudformation:us-east-1:132260253285:stack/amplify-notesai-dev-123940/65523090-78ab-11ee-94c9-0af65679687d",
+      "AmplifyAppId": "d1wgy7ja5c7sfm"
+    },
+    "categories": {
+      "auth": {
+        "notesaiaf4ead10": {}
+      },
+      "storage": {
+        "notesai944fea02": {
+          "bucketName": "graphql-pdf-chat-us-east-1-132260253285",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}
